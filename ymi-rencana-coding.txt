@@ -1,6 +1,8 @@
 RENCANA CODING YMI 
 
 - C++
+  * C++ dasar
+  * Melanjutkan
 - PHP frameworks
 - Unity
 - Edit Video
