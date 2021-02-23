@@ -5,5 +5,7 @@ RENCANA CODING YMI
   * Melanjutkan
 - Struktur Data Dasar
 - PHP frameworks
+  ^ Laravel
 - Unity
 - Edit Video
+- Pyhton
