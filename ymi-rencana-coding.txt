@@ -4,8 +4,9 @@ RENCANA CODING YMI
   * C++ dasar
   * Melanjutkan
   * Test
+- Struktur Data Dasar
 - PHP frameworks
-  ^ API
   ^ Laravel
 - Unity
 - Edit Video
+- Pyhton
