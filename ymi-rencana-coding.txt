@@ -3,7 +3,10 @@ RENCANA CODING YMI
 - C++
   * C++ dasar
   * Melanjutkan
+  * Test
 - Struktur Data Dasar
 - PHP frameworks
+  ^ Laravel
 - Unity
 - Edit Video
+- Pyhton
