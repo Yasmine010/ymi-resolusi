@@ -3,6 +3,7 @@ RENCANA CODING YMI
 - C++
   * C++ dasar
   * Melanjutkan
+- Struktur Data Dasar
 - PHP frameworks
 - Unity
 - Edit Video
